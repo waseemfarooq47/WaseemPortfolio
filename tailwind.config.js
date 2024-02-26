@@ -2,7 +2,12 @@
 module.exports = {
   content: ["./dist/index.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        poppint: ["Poppins"],
+        logo: ["Courgette"],
+      },
+    },
   },
   plugins: [],
 };
