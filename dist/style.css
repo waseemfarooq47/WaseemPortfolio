@@ -1521,6 +1521,19 @@ video {
     padding: 0px;
   }
 
+  .md\:px-12{
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .md\:pb-\[20px\]{
+    padding-bottom: 20px;
+  }
+
+  .md\:pe-12{
+    padding-inline-end: 3rem;
+  }
+
   .md\:text-3xl{
     font-size: 1.875rem;
     line-height: 2.25rem;
